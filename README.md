@@ -18,3 +18,5 @@ In this case, I consider below conditions.
 Hyperbole PDE(now, it means Wave Equation) can turn into advectional equation like below.
 
 <img src = "https://latex.codecogs.com/gif.latex?\frac{\partial^2&space;u}{\partial&space;t^2}&space;-&space;c^2\frac{\partial^2&space;u}{\partial&space;x^2}&space;=&space;0&space;\Leftrightarrow&space;\left(\frac{\partial}{\partial&space;t}&space;-&space;c\frac{\partial}{\partial&space;x}&space;\right)\left(\frac{\partial}{\partial&space;t}&space;&plus;&space;c\frac{\partial}{\partial&space;x}&space;\right)u&space;=&space;0" />
+
+<img src = "https://latex.codecogs.com/gif.latex?\begin{align*}&space;\frac{\partial&space;u}{\partial&space;t}&space;&=&space;c\frac{\partial&space;u}{\partial&space;x}\&space;(recessionary\&space;wave)\\&space;\frac{\partial&space;u}{\partial&space;t}&space;&=&space;-c\frac{\partial&space;u}{\partial&space;x}\&space;(progressive\&space;wave)&space;\end{align*}" />
